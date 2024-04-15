@@ -6,7 +6,7 @@
 - [Instalación](#Instalación)
 - [Uso](#Uso)
 - [Capturas de Pantalla](#Capturas-de-pantalla)
-- [Video demostrativo](#Vidoe-demostrativo)
+- [Video demostrativo](#Video-demostrativo)
 - [Créditos](#Créditos)
 
 # Descripción
